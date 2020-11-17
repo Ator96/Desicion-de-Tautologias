@@ -1,19 +1,19 @@
-Programa realizado para la materia de Estructuras Discretas, Semestre 2017-2.
+# Programa realizado para la materia de Estructuras Discretas, Semestre 2017-2.
 
-Facultad de Ingenieria.
+# Facultad de Ingenieria.
 
-División de Ingenieria Eléctrica.
+# División de Ingenieria Eléctrica.
 
-Carrera: Ingeniería en Computación.
+# Carrera: Ingeniería en Computación.
 
-Semestre: Cuarto (4to).
+# Semestre: Cuarto (4to).
 
-Profesor: 
+## Profesor: 
 
 	Pedro Arturo Góngora Luna.
 	
 
-Alumnos:
+## Alumnos:
 
 	Oscar Gutiérrez Castillo.
 	
